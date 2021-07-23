@@ -1,9 +1,10 @@
 # RetailRocketInterviewTest
-.Net Core 5 и выше
-БД с использованием Entity Framework Core (localhost) 
+## Settings
+.Net Core 5 и выше <br>
+Entity Framework Core (localhost) <br>
 Удостоверьтесь что у вас установлен SQL Express.
 ________
-# TASK
+## TASK
 Интернет магазины часто предоставляют информацию о своем товарном каталоге в виде специального xml-файла в yml-формате.
 
 Требуется написать приложение, которое способно выполнить 2 команды
