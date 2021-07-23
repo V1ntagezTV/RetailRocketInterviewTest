@@ -1,5 +1,5 @@
 # RetailRocketInterviewTest
-### .Net Core 5 и выше
+.Net Core 5 и выше
 БД с использованием Entity Framework Core (localhost) 
 Удостоверьтесь что у вас установлен SQL Express.
 ________
